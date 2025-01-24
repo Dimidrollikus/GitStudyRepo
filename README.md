@@ -1,1 +1,1 @@
-# GitStudyRepo
+# GitStudyRepo Lab
